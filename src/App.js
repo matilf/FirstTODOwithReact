@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="App-content">
         <p>
-          Aquí haremos nuestro TO-DO list
+         My first TO-DO list
         </p>
         <Form />
       </div>
